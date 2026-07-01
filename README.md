@@ -88,4 +88,3 @@ This repository was created as a learning project to understand how Jinja templa
 ## Author
 
 Amay  
-Fullstack Developer
